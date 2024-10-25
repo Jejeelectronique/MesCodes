@@ -1,0 +1,5 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=c:\\Users\\jerry\\MPLABXProjects\\32mx_I2C_SSD1306.X.X\\_build_mplab\\32mx_I2C_SSD1306\\default\\image_default.elf"
+    ]
+}

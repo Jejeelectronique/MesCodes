@@ -1,0 +1,2 @@
+commenter le bloc select : 'Ctrl' + 'K' puis 'Ctrl' + 'C'
+décommenter le bloc select : 'Ctrl' + 'K' puis 'Ctrl' + 'U'

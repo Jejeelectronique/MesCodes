@@ -1,0 +1,3 @@
+Stop Programm = Ctrl + C
+Compile mingw = gcc <nomFichier.c/cpp > -o <Nom de l’éxecutable (arbitraire)>
+Effacer console = cls
