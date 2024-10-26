@@ -18,9 +18,8 @@ char PortCom[5] = {"COM6"};
 int main (void)
 {
 
-        // if((GetAsyncKeyState(VK_TAB) & 0x8000))
-        //     ProgamnRUN = false;
-
+        Channel1.Amplitude = 2500;
+        Channel1.Frequence = 52;
         init_Virtual_SerialCom(PortCom);
 
         SetFrequence(&Channel1);
