@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sdl_mysdl.h": "c",
+        "sdl_mixer.h": "c",
+        "convertmp3_wav.h": "c",
+        "stdlib.h": "c"
+    }
+}
