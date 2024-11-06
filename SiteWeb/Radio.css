@@ -12,6 +12,13 @@ h1 {
     top: 20px; /* Déplace l'élément de 50 pixels vers le bas */
 }
 
+h3 {
+    position: relative;
+    text-align: center;
+    top: 20px;
+    color: rgb(255, 255, 255);
+}
+
 p{
     position: relative; /* Permet de positionner l'élément */
     text-align: center;
@@ -24,7 +31,7 @@ p{
 }
 
 .tablink {
-    background-color: #000000; /* Couleur de fond des boutons */
+    background-color: #ffffff; /* Couleur de fond des boutons */
     text-decoration-color: rgb(224, 234, 236);
     color: rgb(255, 255, 255)
     border: none; /* Supprimer les bordures */
